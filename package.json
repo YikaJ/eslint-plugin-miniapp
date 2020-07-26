@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-miniapp",
+  "version": "0.0.1",
+  "description": "小程序专属的 eslint 校验规则",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.code.tencent.com:Yika/eslint-plugin-miniapp.git"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "keywords": [],
+  "author": "yikazhu",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
+}
